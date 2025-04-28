@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 function Home() {
   return (
@@ -14,9 +15,10 @@ function Home() {
             Join a community that celebrates inclusion and diversity
           </h2>
 
-          <button className="bg-mediumteal hover:bg-teal-500 text-white font-mulish py-3 px-6 rounded-md">
+          <Link to="/signup"><button className="bg-mediumteal hover:bg-teal-500 text-white font-mulish py-3 px-6 rounded-md">
             Join our community
           </button>
+          </Link>
         </div>
       </div>
 
@@ -52,7 +54,7 @@ function Home() {
             <p className="text-black mb-6">
               Connect with industry professionals and elevate your modeling career. Sign up now to become a part of our exclusive community.
             </p>
-            <button className="bg-mediumteal text-white font-bold py-2 px-6 rounded-md hover:bg-gray-100">
+            <button className="bg-mediumteal text-white font-bold py-2 px-6 rounded-md hover:text-green-700">
               Sign Up
             </button>
           </div>

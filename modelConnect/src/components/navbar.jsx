@@ -13,9 +13,10 @@ function Navbar() {
         {/* left side */}
         <div className="flex items-center space-x-2">
           <img src="/modelconnect_logo.png" alt="Logo" className="h-8 w-8" />
-          <button>
+          <Link to="/"><button>
             <span className="hover:text-green-700 text-xl font-bold text-gray-800">ModelConnect</span>
           </button>
+          </Link>
         </div>
 
         {/* desktop menu */}
@@ -23,9 +24,10 @@ function Navbar() {
           <Link to="/" className="menu-link">Home</Link>
           <Link to="/profile" className="menu-link">User Profile</Link>
           <Link to="/contact" className="menu-link">Contact us</Link>
-          <button className="bg-mediumteal hover:bg-teal-500 text-white font-semibold py-2 px-4 rounded-md">
+          <Link to="/signup"><button className="bg-mediumteal hover:bg-teal-500 text-white font-semibold py-2 px-4 rounded-md">
             Sign Up
           </button>
+          </Link>
         </div>
 
         {/* hamburger button */}
