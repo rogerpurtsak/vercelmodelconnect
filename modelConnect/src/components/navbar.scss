@@ -1,0 +1,8 @@
+.menu-link {
+    @apply text-gray-700 font-medium;
+  
+    &:hover {
+      @apply text-green-600;
+    }
+  }
+  
