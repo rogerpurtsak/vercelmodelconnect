@@ -9,6 +9,8 @@ import { Routes, Route } from 'react-router-dom';
 import Footer from './components/footer'
 import Signup from './pages/signup'
 import Contact from './pages/contact';
+import Profile from './pages/profile';
+
 
 
 
@@ -21,6 +23,7 @@ function App() {
         <Route path="/" element={<Home />} />
         <Route path='/signup' element={<Signup />} />
         <Route path="/contact" element={<Contact />} />
+        <Route path="/profile" element={<Profile />} />
       </Routes>
       <Footer />
     </>
