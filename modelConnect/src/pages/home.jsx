@@ -54,9 +54,12 @@ function Home() {
             <p className="text-black mb-6">
               Connect with industry professionals and elevate your modeling career. Sign up now to become a part of our exclusive community.
             </p>
-            <button className="bg-mediumteal text-white font-bold py-2 px-6 rounded-md hover:text-green-700">
-              Sign Up
-            </button>
+            <Link to="/signup">
+  <button className="bg-mediumteal text-white font-bold py-2 px-6 rounded-md hover:text-green-700">
+    Sign Up
+  </button>
+</Link>
+
           </div>
         </div>
       </section>
