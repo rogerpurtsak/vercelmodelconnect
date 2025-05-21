@@ -10,6 +10,7 @@ import Footer from './components/footer'
 import Signup from './pages/signup'
 import Contact from './pages/contact';
 import Profile from './pages/profile';
+import Dashboard from './pages/dashboard';
 
 
 
@@ -24,6 +25,7 @@ function App() {
         <Route path='/signup' element={<Signup />} />
         <Route path="/contact" element={<Contact />} />
         <Route path="/profile" element={<Profile />} />
+        <Route path="/dashboard" element={<Dashboard />} />
       </Routes>
       <Footer />
     </>

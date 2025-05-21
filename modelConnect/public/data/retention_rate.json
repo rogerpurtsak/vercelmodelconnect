@@ -1,0 +1,12 @@
+{
+  "kpi": "Agentuuri klientide lojaalsusindeks",
+  "ühik": "%",
+  "allikas": "FinModelsLab",
+  "allika_url": "https://finmodelslab.com/blogs/kpi-metrics/modeling-agency",
+  "andmed": [
+    { "kuu": "Jaanuar", "väärtus": 78 },
+    { "kuu": "Veebruar", "väärtus": 81 },
+    { "kuu": "Märts", "väärtus": 83 },
+    { "kuu": "Aprill", "väärtus": 80 }
+  ]
+}

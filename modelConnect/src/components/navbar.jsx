@@ -24,6 +24,7 @@ function Navbar() {
           <Link to="/" className="menu-link">Home</Link>
           <Link to="/profile" className="menu-link">User Profile</Link>
           <Link to="/contact" className="menu-link">Contact us</Link>
+          <Link to="/dashboard" className="menu-link">Dashboard</Link>
           <Link to="/signup"><button className="bg-mediumteal hover:bg-teal-500 text-white font-semibold py-2 px-4 rounded-md">
             Sign Up
           </button>

@@ -1,0 +1,12 @@
+{
+  "kpi": "Mida toob iga klient keskmiselt agentuurile",
+  "ühik": "USD",
+  "allikas": "DesignRush",
+  "allika_url": "https://www.designrush.com/agency/digital-marketing/trends/agency-metrics-and-kpis",
+  "andmed": [
+    { "kuu": "Jaanuar", "väärtus": 5000 },
+    { "kuu": "Veebruar", "väärtus": 5200 },
+    { "kuu": "Märts", "väärtus": 5100 },
+    { "kuu": "Aprill", "väärtus": 5300 }
+  ]
+}

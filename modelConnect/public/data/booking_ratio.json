@@ -1,0 +1,12 @@
+{
+  "kpi": "Protsent aktiivselt töötavatest modellidest",
+  "ühik": "%",
+  "allikas": "FinModelsLab",
+  "allika_url": "https://finmodelslab.com/blogs/kpi-metrics/modeling-agency",
+  "andmed": [
+    { "kuu": "Jaanuar", "väärtus": 45 },
+    { "kuu": "Veebruar", "väärtus": 50 },
+    { "kuu": "Märts", "väärtus": 55 },
+    { "kuu": "Aprill", "väärtus": 60 }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "kpi": "Modellide mitmekesisuse indeks",
+  "ühik": "%",
+  "allikas": "BusinessPlan Templates",
+  "allika_url": "https://businessplan-templates.com/blogs/metrics/modeling-agency",
+  "andmed": [
+    { "kuu": "Jaanuar", "väärtus": 78 },
+    { "kuu": "Veebruar", "väärtus": 80 },
+    { "kuu": "Märts", "väärtus": 82 },
+    { "kuu": "Aprill", "väärtus": 85 }
+  ]
+}
