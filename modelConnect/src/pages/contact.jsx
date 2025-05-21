@@ -12,7 +12,7 @@ function Contact() {
           {/* Image */}
           <div className="md:w-1/2">
             <img
-              src="/Image 37 1.png"
+              src="./Image 37 1.png"
               alt="Contact Support"
               className="rounded-lg shadow-lg object-cover w-full"
             />

@@ -38,7 +38,7 @@ function Signup() {
       <div className="flex bg-gray-50 min-h-screen">
         {/* Image */}
         <div className="w-1/2 flex items-center justify-center p-10">
-          <img src="/naine.jpg" alt="Woman" className="rounded-lg border-4 border-lightteal object-cover max-h-[550px]" />
+          <img src="./naine.jpg" alt="Woman" className="rounded-lg border-4 border-lightteal object-cover max-h-[550px]" />
         </div>
 
         {/* Form */}

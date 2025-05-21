@@ -7,7 +7,7 @@ function Footer() {
       <div className="container mx-auto flex md:flex-row justify-between items-center px-6">
 
         <div className="flex items-center space-x-2 mb-4 md:mb-0">
-          <img src="/modelconnect_logo.png" alt="Logo" className="h-8 w-8" />
+          <img src="modelconnect_logo.png" alt="Logo" className="h-8 w-8" />
           <span className="text-xl font-bold text-gray-800">ModelConnect</span>
         </div>
 

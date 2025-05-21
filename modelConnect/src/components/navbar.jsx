@@ -12,7 +12,7 @@ function Navbar() {
         
         {/* left side */}
         <div className="flex items-center space-x-2">
-          <img src="/modelconnect_logo.png" alt="Logo" className="h-8 w-8" />
+          <img src="modelconnect_logo.png" alt="Logo" className="h-8 w-8" />
           <Link to="/"><button>
             <span className="hover:text-green-700 text-xl font-bold text-gray-800">ModelConnect</span>
           </button>

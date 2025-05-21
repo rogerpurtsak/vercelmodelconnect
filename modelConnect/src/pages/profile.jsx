@@ -44,7 +44,7 @@ function Profile() {
       {/* Top profile image */}
       <div className="flex justify-center">
         <img
-          src="/mingipoiss 1.png"
+          src="mingipoiss 1.png"
           className="rounded-md w-full max-w-4xl"
           alt="User Profile"
         />
